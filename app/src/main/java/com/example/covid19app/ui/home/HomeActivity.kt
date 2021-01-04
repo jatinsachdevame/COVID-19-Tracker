@@ -17,13 +17,13 @@ import com.jjoe64.graphview.GridLabelRenderer
 import com.jjoe64.graphview.series.DataPoint
 import com.jjoe64.graphview.series.LineGraphSeries
 import com.example.india.covid19app.R
-import com.example.india.covid19app.data.local.Resource
-import com.example.india.covid19app.data.model.Statewise
-import com.example.india.covid19app.data.model.Stats
+import com.example.covid19app.data.local.Resource
+import com.example.covid19app.data.model.Statewise
+import com.example.covid19app.data.model.Stats
 import com.example.india.covid19app.databinding.ActivityHomeBinding
-import com.example.india.covid19app.ui.helpline.HelplineActivity
-import com.example.india.covid19app.ui.precaution.PrecautionActivity
-import com.example.india.covid19app.ui.state.StateViewActivity
+import com.example.covid19app.ui.helpline.HelplineActivity
+import com.example.covid19app.ui.precaution.PrecautionActivity
+import com.example.covid19app.ui.state.StateViewActivity
 import org.koin.android.ext.android.inject
 import org.koin.android.viewmodel.ext.android.viewModel
 

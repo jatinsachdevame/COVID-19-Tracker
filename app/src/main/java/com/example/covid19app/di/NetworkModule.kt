@@ -1,7 +1,7 @@
 package com.example.covid19app.di
 
 import com.example.india.covid19app.BuildConfig
-import com.example.india.covid19app.data.retrofit.CustomAppRepository
+import com.example.covid19app.data.retrofit.CustomAppRepository
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import org.koin.dsl.module
