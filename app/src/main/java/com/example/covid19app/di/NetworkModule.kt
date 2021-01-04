@@ -1,4 +1,4 @@
-package com.example.india.covid19app.di
+package com.example.covid19app.di
 
 import com.example.india.covid19app.BuildConfig
 import com.example.india.covid19app.data.retrofit.CustomAppRepository

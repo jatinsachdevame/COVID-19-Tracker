@@ -1,4 +1,4 @@
-package com.example.india.covid19app.ui.home
+package com.example.covid19app.ui.home
 
 import android.content.ActivityNotFoundException
 import android.content.Intent

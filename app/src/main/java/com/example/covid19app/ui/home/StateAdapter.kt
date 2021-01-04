@@ -1,4 +1,4 @@
-package com.example.india.covid19app.ui.home
+package com.example.covid19app.ui.home
 
 import android.content.Context
 import android.graphics.Color
@@ -9,7 +9,7 @@ import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.synthetic.main.item_state.view.*
 import com.example.india.covid19app.R
-import com.example.india.covid19app.data.model.Statewise
+import com.example.covid19app.data.model.Statewise
 
 
 class StateAdapter(private val states : ArrayList<Statewise>,

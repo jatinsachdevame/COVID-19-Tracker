@@ -1,4 +1,4 @@
-package com.example.india.covid19app
+package com.example.covid19app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

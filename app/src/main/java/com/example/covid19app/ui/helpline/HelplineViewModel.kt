@@ -1,12 +1,12 @@
-package com.example.india.covid19app.ui.helpline
+package com.example.covid19app.ui.helpline
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.launch
-import com.example.india.covid19app.data.local.Resource
-import com.example.india.covid19app.data.retrofit.CustomAppRepository
+import com.example.covid19app.data.local.Resource
+import com.example.covid19app.data.retrofit.CustomAppRepository
 import java.net.UnknownHostException
 
 

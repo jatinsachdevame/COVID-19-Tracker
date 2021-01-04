@@ -1,4 +1,4 @@
-package com.example.india.covid19app.data.retrofit
+package com.example.covid19app.data.retrofit
 
 import retrofit2.Retrofit
 

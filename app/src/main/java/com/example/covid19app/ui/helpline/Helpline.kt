@@ -1,4 +1,4 @@
-package com.example.india.covid19app.ui.helpline
+package com.example.covid19app.ui.helpline
 
 data class Helpline (
     var state: String? = null,

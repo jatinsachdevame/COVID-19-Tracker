@@ -1,4 +1,4 @@
-package com.example.india.covid19app.ui.precaution
+package com.example.covid19app.ui.precaution
 
 import android.content.Intent
 import android.net.Uri

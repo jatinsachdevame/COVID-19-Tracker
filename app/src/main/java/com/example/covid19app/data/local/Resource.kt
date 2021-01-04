@@ -1,4 +1,4 @@
-package com.example.india.covid19app.data.local
+package com.example.covid19app.data.local
 
 data class Resource<out T>(
     val status: Status, val data: T?, val message: String? = null, val error: Exception? = null

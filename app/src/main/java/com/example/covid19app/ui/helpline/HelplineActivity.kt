@@ -1,4 +1,4 @@
-package com.example.india.covid19app.ui.helpline
+package com.example.covid19app.ui.helpline
 
 import android.content.Intent
 import android.net.Uri
@@ -8,7 +8,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.india.covid19app.R
-import com.example.india.covid19app.data.local.Resource
+import com.example.covid19app.data.local.Resource
 import com.example.india.covid19app.databinding.ActivityHelplineBinding
 import org.koin.android.viewmodel.ext.android.viewModel
 

@@ -1,7 +1,7 @@
-package com.example.india.covid19app.data.retrofit
+package com.example.covid19app.data.retrofit
 
-import com.example.india.covid19app.data.model.StateDistrictWise
-import com.example.india.covid19app.data.model.Stats
+import com.example.covid19app.data.model.StateDistrictWise
+import com.example.covid19app.data.model.Stats
 import retrofit2.http.*
 
 interface CustomApi {

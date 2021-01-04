@@ -1,4 +1,4 @@
-package com.example.india.covid19app.ui.state
+package com.example.covid19app.ui.state
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -11,10 +11,10 @@ import com.github.thunder413.datetimeutils.DateTimeUtils
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.example.india.covid19app.R
-import com.example.india.covid19app.data.local.Resource
-import com.example.india.covid19app.data.model.DistrictData
-import com.example.india.covid19app.data.model.StateDistrictWise
-import com.example.india.covid19app.data.model.Statewise
+import com.example.covid19app.data.local.Resource
+import com.example.covid19app.data.model.DistrictData
+import com.example.covid19app.data.model.StateDistrictWise
+import com.example.covid19app.data.model.Statewise
 import com.example.india.covid19app.databinding.ActivityStateViewBinding
 import org.koin.android.ext.android.inject
 import org.koin.android.viewmodel.ext.android.viewModel

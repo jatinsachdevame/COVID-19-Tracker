@@ -1,9 +1,9 @@
-package com.example.india.covid19app
+package com.example.covid19app
 
 import android.app.Application
-import com.example.india.covid19app.di.appModule
-import com.example.india.covid19app.di.networkModule
-import com.example.india.covid19app.di.viewModelModule
+import com.example.covid19app.di.appModule
+import com.example.covid19app.di.networkModule
+import com.example.covid19app.di.viewModelModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
