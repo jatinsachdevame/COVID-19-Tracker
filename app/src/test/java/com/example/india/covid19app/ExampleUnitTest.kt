@@ -1,4 +1,4 @@
-package com.example.covid_19tracker
+package com.example.india.covid19app
 
 import org.junit.Test
 
