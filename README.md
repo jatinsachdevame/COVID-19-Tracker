@@ -13,7 +13,6 @@ Data Source: <a href="https://api.covid19india.org/">covid19india.org</a>
 
 India COVID-19 Tracker is an Android app that shows data of confirmed, recovered, and death cases of COVID-19 in India. It also has helpline numbers and videos for some of the protective measures that we can take to stop the spread of corona virus and protect ourself.
 
-Download the apk <a href="https://drive.google.com/open?id=1OHzWs6-JwSVF-wvnNR01JjLrfy51ALE9">here</a>.
 
 If any issues are found in code you can add that issue in issues section or make a pull request.
 
